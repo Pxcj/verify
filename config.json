@@ -1,0 +1,7 @@
+{
+    "developerGuild": "952272487343874049",
+    "activityInterval": 5,
+    "botMainColor": "0xff5454",
+    "botErrorColor": "0xdb3535",
+    "database": "mongodb+srv://admin:admin@tnhazem.zfxio.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
